@@ -1,1 +1,9 @@
+name: SecurityConnector
+version: 1.0.0
+main: com.kaalwarrior.securityconnector.SecurityConnector
+api-version: '1.21'
+author: KaalWarrior
+description: Security connector for VulcanAC, GrimAC and ThemisAC.
+depend:
 
+- LuckPerms
