@@ -1,1 +1,21 @@
+SecurityConnector Configuration
 
+Select which anti-cheat integrations are enabled.
+
+VulcanAC: false
+GrimAC: false
+ThemisAC: false
+
+Additional configuration values.
+
+These values are intentionally harmless and only perform
+
+any security, network, or remote operations.
+
+security:
+verification-enabled: true
+connection-check: true
+integrity-check: true
+automatic-repair: false
+remote-verification: false
+debug-mode: false
